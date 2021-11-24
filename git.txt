@@ -1,0 +1,33 @@
+git config --global user.name "gokul"                         //username
+
+git config –global user.name “gokulgalaxy47@gmail.com”       //emailAdress
+
+git config --list                                            //checking username and pass
+
+
+git init                           // to start from repositary .git
+
+git status                            //status
+
+git add filename.txt                 //git add
+
+git commmin -m "message"            // commmit with mgsg
+
+git branch branchname         // branch creating
+
+git branch ///list of branch
+
+
+git checkout branch1         // for navigation
+
+git branch -d branch2         // deletion
+
+git branch -m  branch1 rename      // rename
+
+
+first go to that branch,then merge         ///navigate
+git merge mybran                   //merge
+
+git remote add orgin
+
+git push -u origin main
